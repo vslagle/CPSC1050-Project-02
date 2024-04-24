@@ -5,6 +5,8 @@ Assignment:     Project 02
 Course:         CPSC1051
 Lab Section:    001
 
+Github link: https://github.com/vslagle/CPSC1050-Project-02.git
+
 CODE DESCRIPTION:
 
 This program simulates a text-based game of Candyland. Players will
